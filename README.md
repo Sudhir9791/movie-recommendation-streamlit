@@ -16,7 +16,7 @@ It recommends movies similar to your favorite titles using **TF-IDF vectorizatio
 
 ## 🖼️ Demo
 
-🎯 **Live App:** [https://your-username-movie-recommendation-streamlit.streamlit.app](https://your-username-movie-recommendation-streamlit.streamlit.app)  
+🎯 **Live App:** [https://sudhir9791-movie-recommendation-streamlit-app-2m15iv.streamlit.app/)  
 *(Replace with your actual deployed link after publishing.)*
 
 ---
