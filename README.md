@@ -17,7 +17,7 @@ It recommends movies similar to your favorite titles using **TF-IDF vectorizatio
 ## 🖼️ Demo
 
 🎯 **Live App:** [https://sudhir9791-movie-recommendation-streamlit-app-2m15iv.streamlit.app/)  
-*(Replace with your actual deployed link after publishing.)*
+
 
 ---
 
@@ -39,12 +39,4 @@ It recommends movies similar to your favorite titles using **TF-IDF vectorizatio
 3. It computes cosine similarity between movies to find the closest matches.
 4. When a user searches for a movie, the app displays the most similar titles and similarity scores.
 
----
-
-## ⚙️ Installation & Run Locally
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/movie-recommendation-streamlit.git
-cd movie-recommendation-streamlit
+--
