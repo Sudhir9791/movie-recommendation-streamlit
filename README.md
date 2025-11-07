@@ -39,4 +39,4 @@ It recommends movies similar to your favorite titles using **TF-IDF vectorizatio
 3. It computes cosine similarity between movies to find the closest matches.
 4. When a user searches for a movie, the app displays the most similar titles and similarity scores.
 
---
+---
